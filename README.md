@@ -1,6 +1,7 @@
 ## About the project
 This is a program meant to run a virtual machine of my custom CPU architecture (aimed as being as minimalist as possible).
 Just a fun little project I've been working on.
+The name **E**-**V****M** stands for Efficient Virtual Machine.
 ## Contributing
 ### Code structure
 #### Newlines
